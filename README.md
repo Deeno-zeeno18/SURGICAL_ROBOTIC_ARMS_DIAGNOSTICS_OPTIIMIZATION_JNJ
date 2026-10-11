@@ -64,8 +64,7 @@ Virtual work experience project based on the **Johnson & Johnson MedTech Robotic
 
 | File | Description |
 |---|---|
-| `Control_System_Diagnostics_Notebook.ipynb` | Task 1 notebook with my measurements, hypothesis and notes |
-| `Diagnostic_Report_Robotic_Arm.pdf` | Task 1 diagnostic report |
+| `Control_System_Diagnostics_Notebook.ipynb` | Task 1 notebook with my measurements, hypothesis and ROBOTICS_DIAGNOSTICS_REPORT.pdf` | Task 1 diagnostic report |
 | `Robotic_Arm_Design_Simulation.ipynb` | Task 2 notebook with simulation runs and observations |
 | `Design_Optimization_Proposal.pdf` | Task 2 design proposal |
 | `design_proposal.tex` | LaTeX source for the proposal |
