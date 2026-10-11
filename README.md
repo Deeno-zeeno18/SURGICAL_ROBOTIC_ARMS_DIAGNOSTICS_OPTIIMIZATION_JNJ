@@ -67,7 +67,6 @@ Virtual work experience project based on the **Johnson & Johnson MedTech Robotic
 | `Control_System_Diagnostics_Notebook.ipynb` | Task 1 notebook with my measurements, hypothesis and ROBOTICS_DIAGNOSTICS_REPORT.pdf` | Task 1 diagnostic report |
 | `Robotic_Arm_Design_Simulation.ipynb` | Task 2 notebook with simulation runs and observations |
 | `Design_Optimization_Proposal.pdf` | Task 2 design proposal |
-| `design_proposal.tex` | LaTeX source for the proposal |
 | `sensor_misalignment_vs_realignment.png` | Illustrative diagram (not measured data) |
 | `actuator_upgrade_impact.png` | Simulation results chart (modelled values) |
 
